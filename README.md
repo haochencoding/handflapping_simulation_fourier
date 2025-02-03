@@ -7,3 +7,5 @@ This repo explains how I use existing movement data for hand flapping and standi
 - `fourier_standstill.ipynb`: a notebook on how to use Fourier transform to get the threshold for detecting hand flapping movements.
 - `fourier_handflapping_detection.ipynb`: a notebook on how to detect handflapping using Fourier transform using threshold values.
 - `data_analysis_merged_handflapping_data.ipynb`: a notebook on how to extracted parameters to simulate handflapping data
+- `data_analysis_simulated_data.ipynb`: a notebook on the data analysis on simulated data
+- `simulation_algorithm.ipynb`: a notebook on the algorithm for simulating handflapping
